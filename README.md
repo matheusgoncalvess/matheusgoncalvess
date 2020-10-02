@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 Osasco/SP :house_with_garden:
 
-- :books: Estudando C#
+- :books: Estudando desenvolvimento web HTML, CSS, JS
 - :smile: Apaixonado em aprender novas tecnologias
 - :blue_book: Cursando 2º semestre em Análise e Desenvolvimento de Sistemas
 - :tv: Séries
