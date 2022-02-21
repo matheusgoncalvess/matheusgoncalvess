@@ -13,7 +13,7 @@ Osasco/SP :house_with_garden:
 
 - :books: Estudando desenvolvimento web HTML, CSS, JS
 - :smile: Apaixonado em aprender novas tecnologias
-- :blue_book: Cursando 3º semestre em Análise e Desenvolvimento de Sistemas
+- :blue_book: Cursando 4º semestre em Análise e Desenvolvimento de Sistemas
 - :tv: Séries
 
 ### Onde me encontrar :earth_americas:
