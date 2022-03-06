@@ -34,7 +34,7 @@ Osasco/SP :house_with_garden:
  
  I can, I do :facepunch:
  
- :e-mail: <a href="mailto:matheusgoncalves87@hotmail.com?subject=">Email
+ :e-mail: <a href="mailto:matheusgoncalves87@hotmail.com?subject=">E-mail
  
  </div>
 
