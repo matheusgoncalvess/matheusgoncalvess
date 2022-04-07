@@ -30,7 +30,7 @@ Osasco/SP :house_with_garden:
 
 ### Onde me encontrar :earth_americas:
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-gon%C3%A7alves-6828b1193/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/matheusoliveira7_/?hl=pt-br")
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-gon%C3%A7alves-de-oliveira-6828b1193/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/matheusoliveira7_/?hl=pt-br")
  
  I can, I do :facepunch:
  
