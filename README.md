@@ -37,4 +37,6 @@ Osasco/SP :house_with_garden:
  :e-mail: <a href="mailto:matheusgoncalves87@hotmail.com?subject=">E-mail
  
  </div>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
