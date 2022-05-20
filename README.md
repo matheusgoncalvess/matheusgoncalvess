@@ -26,10 +26,18 @@ Here are some ideas to get you started:
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-gon%C3%A7alves-de-oliveira-6828b1193/) 
  <a href = "mailto: matheusgoliveira177@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-
+ 
+ <div>
+   
   <a href="https://github.com/matheusgoncalvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgoncalvess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus&layout=compact&langs_count=7&theme=dark"/>
+   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusgoncalvess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+     
+     
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgoncalvess&layout=compact&langs_count=7&theme=dark&hide_border=false"/>
+  
+</div>
 
 
 ### My Skills
