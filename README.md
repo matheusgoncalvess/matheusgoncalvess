@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm Matheus 👋
+## I'm am Matheus 👋
 
  I live in Osasco/São Paulo :house_with_garden:
 
