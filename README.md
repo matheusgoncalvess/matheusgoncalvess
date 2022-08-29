@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
  I live in Osasco/São Paulo :house_with_garden:
 
-- :books: Studying back-end, Python e C#
+- :books: Studying back-end, JavaScript e Node Js
 - :smile: Passionate about learning new technologies
 - :tv: Series
 
