@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   <img align="center" alt="matheus-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="matheus-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="matheus-vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="matheus-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+
   
  </div>
 
