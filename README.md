@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - :tv: Series
 
 ### :mortar_board: Academic Education
-- Análise e Desenvolvimento de Sistemas (4º Semestre) - Universidade Nove de Julho
+- Análise e Desenvolvimento de Sistemas (5º Semestre) - Universidade Nove de Julho
 
 </div>
   
