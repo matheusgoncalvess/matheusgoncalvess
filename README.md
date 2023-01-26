@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - :smile: Passionate about learning new technologies
 - :tv: Series
 - 🎮 Vídeo Game
-- :man_technologist: Currently as a Jr Support Analyst
+- :man_technologist: Currently as a Jr Support Analyst at Taking
 
 ### :mortar_board: Academic Education
 - I have a degree in Technologist in Systems Analysis and Development
