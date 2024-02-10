@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 </div>
 
-### 🌎 Onde me encontrar
+### 🌎 Onde localizar
 
 <br>
  
