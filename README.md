@@ -12,29 +12,28 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS shield">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Boostrap">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+  <img src="https://camo.githubusercontent.com/6c3957842901e5baa389f3bb8758c8966683333b28493013062fcab5fab645e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQLServer"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 </div>
 
 
-## I'm am Matheus 👋
+## Eu sou o Matheus 👋
 
- I live in Osasco/São Paulo :house_with_garden:
-
-- :books: I'm focused on specializing as a Back-End Developer.
-- :smile: Passionate about learning new technologies
-- :tv: Series
-- 🎮 Vídeo Game
-- :man_technologist: Currently as a Jr Support Analyst at Taking.
+- :smile: Apaixonado por aprender novas tecnologias.
+- :man_technologist: Bora Codar? 
 
 ### :mortar_board: Academic Education
-- I have a degree in Technologist in Systems Analysis and Development
+- Sou formado em Análise e Desenvolvimento de Sistemas.
+- Cursando Sistemas de Informação. 
 
 </div>
 
-### 🌎 Where to find me
+### 🌎 Onde me encontrar
 
 <br>
  
