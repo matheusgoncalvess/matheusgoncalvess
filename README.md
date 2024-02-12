@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## Fala Dev 👋
+## Hello, World! 👋
 
 - Atualmente atuo, como Analista de Suporte Jr e também com toda parte de Infraestrutura em TI. 
 
