@@ -22,14 +22,13 @@ Here are some ideas to get you started:
 </div>
 
 
-## Eu sou o Matheus 👋
+## Fala Dev 👋
 
-- :smile: Apaixonado por aprender novas tecnologias.
-- :man_technologist: Bora Codar? 
+- Atualmente atuo, como Analista de Suporte Jr e também com toda parte de Infraestrutura em TI. 
 
 ### :mortar_board: Academic Education
-- Sou formado em Análise e Desenvolvimento de Sistemas.
-- Cursando Sistemas de Informação. 
+- Sou formado em Análise e Desenvolvimento de Sistemas - Universidade UNINOVE.
+- Cursando Sistemas de Informação - Universidade Impacta. 
 
 </div>
 
