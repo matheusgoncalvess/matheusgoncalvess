@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 
 ## Hello, World! 👋
 
-- Atualmente atuo, como Analista de Suporte Jr e também com toda parte de Infraestrutura em TI. 
+- Atualmente estou aprofundando meus conhecimentos em tecnologia web, mas já trabalhei como Analista de Infraestrutura Jr. 
 
 ### :mortar_board: Academic Education
-- Sou formado em Análise e Desenvolvimento de Sistemas - Universidade UNINOVE.
-- Cursando Sistemas de Informação - Universidade Impacta. 
+- Sou formado em Análise e Desenvolvimento de Sistemas - Universidade UNINOVE. 
 
 </div>
 
